@@ -68,6 +68,7 @@ function uploadData(file, url) {
 //     console.log("x promise value is",value);
 // })
 
+console.log("Start")
 let downloadPromise = fetchData("www.datadrive.com");
 downloadPromise
 .then(function processDownload(value) {
