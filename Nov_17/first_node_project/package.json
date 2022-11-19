@@ -1,0 +1,14 @@
+{
+  "name": "first_node_project",
+  "version": "1.0.0",
+  "description": "this is a basic node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
